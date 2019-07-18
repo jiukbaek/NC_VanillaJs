@@ -1,0 +1,24 @@
+body{
+    background-color:peru;
+}
+h1{
+    color:white;
+    transition:color 0.5s ease-in-out;
+}
+
+.btn{
+    cursor:pointer;
+}
+
+.clicked{
+    color:blue;
+}
+
+.form,
+.gretting{
+    display:none;
+}
+
+.showing{
+    display:block;
+}
